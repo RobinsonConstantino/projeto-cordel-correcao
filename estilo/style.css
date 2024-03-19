@@ -2,13 +2,12 @@
 
 @font-face {
   font-family: "titulo";
-  src: url("C:/Users/robin/OneDrive/Área de Trabalho/cursos em vídeo/html/módulo03/d012/correcao-desafio12/fontes/roadway-titulo/Roadway.ttf")
-    format(truetype);
+  src: url("../fontes/roadway-titulo/Roadway.ttf") format(truetype);
 }
 
 @font-face {
   font-family: "corpo";
-  src: url("C:/Users/robin/OneDrive/Área de Trabalho/cursos em vídeo/html/módulo03/d012/correcao-desafio12/fontes/robaga-rounded-corpo2/Robaga\ Rounded\ Light-Italic.otf")
+  src: url("../fontes/robaga-rounded-corpo2/Robaga\ Rounded\ Light-Italic.otf")
     format(opentype);
 }
 
@@ -122,12 +121,12 @@ section.imagem {
 }
 
 section#img01 {
-  background-image: url("C:/Users/robin/OneDrive/Área de Trabalho/cursos em vídeo/html/módulo03/d012/correcao-desafio12/imagens/background001.jpg");
+  background-image: url("../imagens/background001.jpg");
   background-position: right center;
 }
 
 section#img02 {
-  background-image: url("C:/Users/robin/OneDrive/Área de Trabalho/cursos em vídeo/html/módulo03/d012/correcao-desafio12/imagens/background002.jpg");
+  background-image: url("../imagens/background002.jpg");
   background-position: right center;
 }
 
