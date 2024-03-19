@@ -60,7 +60,7 @@ header > h1 {
 /*text-transform: uppercase;*/ /*todas as letras do mesmo tamanho maiúsculas*/
 
 header > p {
-  padding-bottom: 35px;
+  padding-bottom: 45px;
   font-family: "calibri", sans-serif;
   font-size: 1.3vw;
   letter-spacing: 0.05em;
